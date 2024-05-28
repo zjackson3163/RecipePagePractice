@@ -12,15 +12,14 @@
 }
 
 body{
-    background-color: rgb(243,229,216);
+    background-color: hsl(30, 54%, 90%);
 }
 
 #main{
     background-color: white;
     width: 40%;
     padding: 3%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5% auto 5% auto;
     border-radius: 15px;
     min-width: 200px;
 }
@@ -31,16 +30,16 @@ h1, h2, h3{
 
 p, li{
     font-family: monospace;
-    color: rgb(39, 39, 39);
+    color: hsl(24, 5%, 18%);
     font-size: 13.5px;
 }
 
 h3{
-    color: rgb(131, 55, 87);
+    color: hsl(332, 51%, 32%);
 }
 
 h2{
-    color:rgb(100, 56, 47);
+    color: hsl(14, 45%, 36%);
 }
 
 img{
@@ -49,7 +48,7 @@ img{
 }
 
 #prep{
-    background-color: rgb(255,247,252);
+    background-color: hsl(330, 100%, 98%);
     border-radius: 10px;
     padding: 2%;
 }
